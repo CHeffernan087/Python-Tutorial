@@ -10,7 +10,7 @@
 
 #-------------------  insuring you have python installed on MAC -------------------------
 
-	#the easiest way to run python files using using the command line provided to you on your computer
+	#the easiest way to run python files is using the command line provided to you on your computer
 	#before you run a python file you need to make sure your computer knows what python is.
 	#open the 'terminal' application by going in to your applications and clicking the 'Other' applications, then click 'terminal'
 	#This will open a command line (also called terminal window)
