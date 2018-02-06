@@ -48,7 +48,11 @@
 	#And thats it! - good to go :) 
 
 
+def welcome():
+	print("\nTo run any of the topics discussed in the python file type:\n\t->variables\n\t->if\n\t->loops\n\t->functions\nor type 'quit' to exit\n")
 
+
+welcome();
 
 
 
@@ -58,14 +62,10 @@
 #-------------------  The actual code -------------------------
 
 	#for the purpose of demonstration I will write all the code im writing as seperate functions, so that i can call and demonstrate the code independantly,
-	#It is however not necessary (even bad practice) to write your code as a series of functions unless you intent on reusing this code multiple times.
+	#It is however not necessary (even bad practice) to write your code as a series of functions unless you intend on reusing this code multiple times.
 	#I will explain further down how to write functions, so dont get hung up on reading the functions now
 print("\nWelcome!!\n")
-def welcome():
-	print("\nTo run any of the topics discussed in the python file type:\n\t->variables\n\t->if\n\t->loops\n\t->functions\nor type 'quit' to exit\n")
 
-
-welcome();
 #-------------------  Variables and printing -------------------------
 def introToVariables():
 	print("\n\n----------------- Variables ----------------------\n")
