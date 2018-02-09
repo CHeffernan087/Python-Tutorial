@@ -58,7 +58,7 @@
 #-------------------  The actual code -------------------------
 
 	#for the purpose of demonstration I will write all the code im writing as seperate functions, so that i can call and demonstrate the code independantly,
-	#It is however not necessary (even bad practice) to write your code as a series of functions unless you intent on reusing this code multiple times.
+	#It is however not necessary (even bad practice) to write your code as a series of functions unless you intend on reusing this code multiple times.
 	#I will explain further down how to write functions, so dont get hung up on reading the functions now
 print("\nWelcome!!\n")
 def welcome():
